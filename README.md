@@ -6,7 +6,7 @@
 
 ## installation 
 - `cd api`
-- `docker-compose up` to run the db
+- `docker-compose up` to run the db or you can change `DATABASE_URL` in `.env` to your local psotgres db
 - rename `.env.example` to `.env`
 - `yarn` to install the dependencies
 
